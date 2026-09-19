@@ -4,10 +4,10 @@ Low-risk hackathon project, but the dataset is member-level. Treat it as persona
 
 ## 1. Data handling
 
-- Source: `1.data/` from `https://smplu.link/BIHACKATHON`. Educational / hackathon use only (see `LICENSE.md`).
+- Source: `1.data/raw/` from `https://smplu.link/BIHACKATHON`. Educational / hackathon use only (see `LICENSE.md`).
 - `Customer Loyalty History.csv` contains quasi-identifiers: `Loyalty Number`, `Postal Code`, `City/Province`, demographics, `Salary`, `CLV`. **Do not attempt re-identification. Do not join with external data to identify individuals.**
 - Share only aggregates outside the team. Never email or post row-level exports containing `Loyalty Number` + `Postal Code`. The final PBIX submission to `bidasanalytics@gmail.com` should avoid member-level tables unless needed — prefer aggregated visuals.
-- Keep raw data in `1.data/`; do not upload it to public repos, gists, or AI tools that retain training data without consent.
+- Keep raw data in `1.data/raw/`; do not upload it to public repos, gists, or AI tools that retain training data without consent.
 
 ## 2. PBIX / credential hygiene
 
