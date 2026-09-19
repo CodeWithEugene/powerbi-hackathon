@@ -157,7 +157,7 @@ Value is measured from **observed behaviour** (flights, distance, points), not f
 | Km per member (May–Dec) | 65,981 | 11,270 | |
 | Members with at least one flight May–Dec | 94.9% | 82.9% | |
 
-2018 flights grew by 62,284 over 2017 (+27.9%). The promo cohort alone accounts for **72%** of that growth. The 2018 standard cohort accounts for 28%. The legacy base grew only 2.3% on its own.
+2018 flights grew by 62,284 over 2017 (+27.9%). The promo cohort alone accounts for **72%** of that growth. Measured strictly as each cohort's 2018 flights minus its 2017 flights, the 2018 standard cohort accounts for 20% (some of them flew before enrolling) and the legacy base for 8%. The legacy base grew only 2.3% on its own. The Power BI measure `Share of Growth %` uses the strict definition.
 
 This is not a few outliers. Among promo members, May to December flights have a median of 44, an interquartile range of 32 to 58, and a minimum of 0. The whole cohort flies heavily.
 
